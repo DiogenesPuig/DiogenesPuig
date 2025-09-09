@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Diogenes Puig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23E94E77&size=20&center=true&vCenter=true&width=700&height=100&lines=Vocational+High+School+Diploma+in+Computer+Programming;Always+learning">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23E94E77&size=20&center=true&vCenter=true&width=700&height=100&lines=Vocational+High+School+Diploma+in+Computer+Programming;Computer+Science+Student;Always+learning">
   </a>
 </p>
 
